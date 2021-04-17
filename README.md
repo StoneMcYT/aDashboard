@@ -14,9 +14,10 @@ Autils contains
   - Amenu
   - Adashboard
   - Merlion
-
-
-
+<br>
+This Repo is maitained by StoneMc 
+<br> 
+The code is by Cookie and IOnly and sometimes by StoneMc
 
 
 
